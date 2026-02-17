@@ -1,5 +1,12 @@
 # Employee Insights and Attrition Analysis
 
+## Table of Contents
+- [Project Description](#project-description)
+- [Aim](#aim)
+- [Processes](#processes)
+- [Recommendation](#recommendation)
+- [Design Choice](#design-choice)
+
 ## Project Description
 #### This project presents a comprehensive HR Analytics Dashboard designed to provide actionable insights into workforce demographics, employee satisfaction, compensation, and attrition trends. Built with Power BI, the dashboard enables HR professionals and organizational leaders to explore key metrics such as employee distribution by department, gender, and job role, average income levels, satisfaction scores, and attrition rates across job levels. By combining interactive filters and dynamic visualizations, the dashboard helps uncover patterns in employee behavior and organizational performance. These insights support data-driven decision-making, allowing HR teams to identify areas of concern, improve employee retention strategies, and enhance overall workforce management.
 
